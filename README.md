@@ -28,7 +28,7 @@ Sou desenvolvedor **Full Stack** com foco em **engenharia de dados**. Gosto de c
 
 ### 🔗 Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-ACN--1277-black?logo=github)](https://github.com/ACN-1277)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexsandro%20Nunes-blue?logo=linkedin)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexsandro%20Nunes-blue?logo=linkedin)](https://www.linkedin.com/in/costa-alexsandro)
 [![Email](https://img.shields.io/badge/Email-acn%40email.com-red?logo=gmail)](mailto:alexsandro.nunes@proton.me)
 
 ---
